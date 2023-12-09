@@ -11,6 +11,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     - ButtonList
     - VedioContainer
 
+# Debouncing
+
+- A powerful technique used to optimize event handling by delaying the execution of a function until after a specified period of inactivity.
+- performance efficent
+
 ## Available Scripts
 
 In the project directory, you can run:
