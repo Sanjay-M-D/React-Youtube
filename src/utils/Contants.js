@@ -7,6 +7,8 @@ export const YOU_TUBE_LOGO =
 export const USER_LOGO =
   "https://iconape.com/wp-content/files/jh/12297/png/user-circle.png";
 
+export const LIVE_CHAT_COUNT = 15;
+
 export const BUTTON_NAME_LIST = [
   "All",
   "Gaming",
